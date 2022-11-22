@@ -32,4 +32,4 @@ The duo are highly self-explanatory.
 
 #### Understanding the differences between privilege escalation on Windows and Linux
 
-![Diff between Window and Linux](screenshot1.png)
+![Diff between Window and Linux](/images/screenshot1.png)
