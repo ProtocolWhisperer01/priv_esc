@@ -18,15 +18,15 @@ The protection ring is what detects how user privileges and permissions are assi
 
 Thus we are brought to the adoption of two main roles:
 
-	-**Privileged access**
-	- **Unprivileged access**
+	- Privileged access
+	- Unprivileged access
 	
 With all the above in mind, then our attention is brought to the types of privilege escalation. This essentially comes from the notion that in any given system there is always a privileged access user which tends to be 1 and multiple unprivileged access users.
 
 The types of privilege escalation include:
 
-	- **Horizontal privilege escalation**
-	- **Vertical privilege escalation**
+	- Horizontal privilege escalation
+	- Vertical privilege escalation
 	
 The duo are highly self-explanatory.
 
