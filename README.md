@@ -1,2 +1,3 @@
-# priv_esc
-This is an overview into Privilege Escalation
+# Privilege Escalation
+
+This is an overview into Privilege Escalation mainly for CTFs :smiley:. 
